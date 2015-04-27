@@ -1,0 +1,203 @@
+{
+	"name":"monkey",
+	"children":[
+		{
+			"name":"Design",
+			"children":[
+				{
+					"name":"Research",
+					"children":[
+						{"name":"Literatures", "size":3000},
+						{"name":"past productions", "size":3000}
+					]
+				},
+				{
+					"name":"Incubation",
+					"children":[
+						{"name":"Subject Matter Experts", "size":3000},
+						{"name":"Brain storming", "size":3000}
+					]
+				},
+				{
+					"name":"Formalisation",
+					"children":[
+						{"name":"Creative brief",
+						"children":[
+							{"name":"Production overview", "size":3000},
+							{"name":"Show format", "size":3000},
+							{"name":"Creative scope", "size":3000},
+							{"name":"Unique Product Proposition", "size":3000},
+							{"name":"Target audience", "size":3000},
+							{"name":"Segment stories & descriptions", "size":3000}
+						]}
+					]
+				}					
+			]
+		},
+		{
+			"name":"Delivery",
+			"children":[
+				{
+					"name":"Planning",
+					"ref":"abc",
+					"children":[
+						{
+							"name":"Budgeting", 
+							"children":[
+								{"name":"Cost item inventory", "size":3000},
+								{
+									"name":"Remuneration",
+									"children":[
+										{"name":"Fair Work Ombudsman", "size":3000},
+										{"name":"Australian performance", "size":3000}
+									]
+								},
+								{"name":"Budged forecast", "size":3000},
+								{"name":"Scope adjustment", "size":3000},
+								{"name":"Resource usage monitoring", "size":3000}
+							]
+						},
+						{"name":"Risk management", "size":3000},
+						{
+							"name":"Quality management",
+							"children":[
+								{"name":"Content censorship", "size":3000},
+								{"name":"Artists rights", "size":3000},
+								{"name":"OHS", "size":3000}
+							]
+						},
+						{
+							"name":"Stakeholder management",
+							"children":[
+								{"name":"Melbourne Fringe Festival", "size":3000},
+								{"name":"NMIT", "size":3000},
+								{"name":"Participating artists", "size":3000}
+							]
+						},					
+						{"name":"Staff Management", "size":3000},
+						{"name":"Scheduling", "size":3000}
+					]
+				},
+				{
+					"name":"Productisation",
+					"children":[
+						{
+							"name":"Materials", 
+							"children":[
+								{"name":"Narrative script", "size":3000},
+								{"name":"Role descriptions", "size":3000},
+								{
+									"name":"Recruiting & Casting",
+									"children":[
+										{"name":"Research, contact initiation", "size":3000},
+										{"name":"Auditions", "size":3000}
+									]
+								},
+								{"name":"Music compositions", "size":3000}
+							]
+						},
+						{"name":"Performance", "size":3000},
+						{
+							"name":"Acting Rehearsals",
+							"children":[
+								{"name":"Creative brief", "size":3000},
+								{"name":"Direction", "size":3000},
+								{"name":"Venue", "size":3000},
+								{"name":"Schedule", "size":3000}
+							]
+						},
+						{
+							"name":"Dance Rehearsals",
+							"children":[
+								{"name":"Creative brief", "size":3000},
+								{
+									"name":"Choreographer",
+									"children":[
+										{"name":"Dancer", "size":3000}
+									]
+								},
+								{"name":"Venue", "size":3000},
+								{"name":"Schedule", "size":3000}
+							]
+						},					
+						{
+							"name":"Kang Fu Rehearsals",
+							"children":[
+								{"name":"Creative brief", "size":3000}
+							]
+						},
+						{"name":"Music Rehearsals", "size":3000}
+					]
+				}			
+			]
+		},
+		{
+			"name":"Distribution",
+			"children":[
+				{
+					"name":"Legislation",
+					"children":[
+						{"name":"Insurance", "size":3000},
+						{"name":"Copyrights", "size":3000}
+					]
+				},
+				{
+					"name":"Promotion/Marketing",
+					"children":[
+						{"name":"Visual identity", "size":3000},
+						{"name":"Promotion script", "size":3000},
+						{"name":"Print production and distributions", "size":3000},
+						{"name":"Local paper", "size":3000},
+						{"name":"Melbourne Fringe", "size":3000},
+						{
+							"name":"On-air promotion",
+							"children":[
+								{"name":"RRR", "size":3000},
+								{"name":"PBS", "size":3000}
+							]
+						}						
+					]
+				},
+				{
+					"name":"Logistics",
+					"children":[
+						{"name":"Venue", "size":3000},
+						{
+							"name":"Installation",
+							"children":[
+								{"name":"Props", "size":3000},
+								{"name":"sound", "size":3000},
+								{"name":"Lighting", "size":3000},
+								{"name":"Filming", "size":3000},
+								{"name":"Costume design", "size":3000},
+								{"name":"Make-ups", "size":3000},
+								{"name":"Piano removal", "size":3000}
+							]
+						},
+						{
+							"name":"Stage management",
+							"children":[
+								{"name":"Run sheet", "size":3000},
+								{"name":"Installation/Removals", "size":3000}
+							]
+						}						
+					]
+				},
+				{
+					"name":"Post production",
+					"children":[
+						{
+							"name":"Video",
+							"children":[
+								{"name":"DVD", "size":3000},
+								{"name":"YouTube", "size":3000}						
+							]
+						}
+					]
+				}				
+			]
+		}	
+	]
+}
+
+
